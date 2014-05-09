@@ -1,0 +1,27 @@
+{
+  "name": "transformer.ascii",
+  "version": "0.0.1",
+  "description": "transformer type: Ascii",
+  "main": "index.js",
+  "transformer": "transformer.jsonld",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transformer",
+    "module",
+    "transformer-type"
+  ],
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jbenet/transformer.ascii"
+  },
+  "author": "Juan Benet <juan@benet.ai> (http://github.com/jbenet)",
+  "bugs": {
+    "url": "https://github.com/jbenet/transformer.ascii/issues"
+  },
+  "dependencies": {
+    "dat-transformer": "~0.1.2"
+  }
+}
