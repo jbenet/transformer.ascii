@@ -23,5 +23,7 @@
   },
   "dependencies": {
     "dat-transformer": "~0.1.2"
-  }
+  },
+  "homepage": "https://github.com/jbenet/transformer.ascii",
+  "devDependencies": {}
 }
