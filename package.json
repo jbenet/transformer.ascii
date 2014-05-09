@@ -1,6 +1,6 @@
 {
   "name": "transformer.ascii",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "transformer type: Ascii",
   "main": "index.js",
   "transformer": "transformer.jsonld",
