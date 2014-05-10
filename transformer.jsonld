@@ -1,6 +1,6 @@
 {
  "@context": "http://transformer.io/context/transformer.jsonld",
- "type": "Type",
+ "type": "type",
  "id": "ascii",
  "description": "ascii strings.",
  "schema": "string"
